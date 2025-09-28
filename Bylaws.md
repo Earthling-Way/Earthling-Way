@@ -33,55 +33,11 @@ The Earthling Order exists to promote the Living Ethos, protect and restore Gaia
 * Disputes resolved through restorative justice practices.
 
 ### The Earthling Way – Protocol for Disputes and Inquiry
-1. ***Ground Rule: Shared Reality***: All Earthlings agree that we live in a shared material world, with observable conditions that affect our lives. Disputes must ultimately be resolved by reference to material effects in this world (food, water, energy, ecosystems, justice, well-being).
-2. ***Three-Tier Framework for Ideas***: When a disagreement arises, ideas are placed into one of three categories:
-    * Empirical → Claims testable in observable conditions.
-        * Example: “This soil practice increases crop yield.”
-        * Test: Experiment, measurement, replication.
-    * Metaphysical / Mythic → Claims not directly testable, but offering meaning, imagination, or moral guidance.
-        * Example: “Gaia dreams through us.”
-        * Value: Inspiration, cohesion, ethical framing.
-    * Speculative / Fictional → Purely imaginative, acknowledged as story or symbol.
-        * Example: “There are invisible dragons in my garden.”
-        * Value: Entertainment, metaphor, teaching tool.
-    * Note: Categories are not hierarchical. Each has value, but they are applied differently.
-3. Dispute Protocol
-    * Clarify the Claim
-        * Write it clearly. Is it about reality (empirical), meaning (metaphysical), or imagination (speculative)?
-    * Identify Stakes
-        * Does this claim affect how we live, build, or care for Earth?
-        * If yes → empirical evidence required.
-        * If no → it may remain in mythic/speculative space.
-    * Test Empirical Claims (Scientific Method)
-        * Hypothesis → Experiment → Observe → Peer Review → Repeat.
-        * If reproducible and observable → claim is upheld.
-        * If not → claim is rejected (but may remain as myth/fiction).
-    * Hold Space for Metaphysical Claims
-        * Metaphysical ideas cannot be “proven,” but may be embraced if they inspire ethical action and do not contradict observed reality.
-        * Example: “The river is a spirit” may not be empirically testable, but if it leads to better care for the river, it holds social and spiritual value.
-    * Acknowledge Fictional Claims
-        * Fictional or imaginative claims are preserved as art, myth, and play, but not used as grounds for real-world decisions.
-4. Conflict Resolution
-    * If two Earthlings disagree, they follow these steps:
-        * Categorize the claim (empirical, metaphysical, speculative).
-        * If empirical → resolve by science.
-        * If metaphysical → resolve by consensus: Does it inspire good action?
-        * If speculative → treat as story, not doctrine.
-    * Final Principle:
-        * If it cannot change the world we live in together, it cannot divide us.
-5. Why This Matters
-    * This protocol prevents:
-        * Dogma (forcing myth into material truth).
-        * Reductionism (dismissing imagination outright).
-        * Division (fighting over what cannot be tested).
-    * It allows Earthlings to hold science as compass, myth as map, and story as song—all valid, but used in the right context.
-
-***(proposed edit)***
-1. Ground Rule: Shared Reality
+1. ***Ground Rule: Shared Reality***
 All Earthlings agree that we live in a shared material world, with observable conditions that affect our lives.
 Disputes must ultimately be resolved by reference to material effects in this world (food, water, energy, ecosystems, justice, well-being).
 
-2. Three-Tier Framework for Ideas
+2. ***Three-Tier Framework for Ideas***
 When a disagreement arises, ideas are placed into one of three categories:
 Empirical → Claims testable in observable conditions.
 * Example: “This soil practice increases crop yield.”
@@ -97,7 +53,7 @@ Speculative / Fictional → Purely imaginative, acknowledged as story or symbol.
 
 Note: Categories are not hierarchical. Each has value, but they are applied differently.
 
-3. Dispute Protocol
+3. ***Dispute Protocol***
 ***Clarify the Claim***
 * Write it clearly. Is it about reality (empirical), meaning (mythic), or imagination (speculative)?
 ***Identify Stakes***
@@ -114,7 +70,7 @@ Note: Categories are not hierarchical. Each has value, but they are applied diff
 ***Acknowledge Fictional Claims***
 * Fictional or imaginative claims are preserved as art, myth, and play, but not used as grounds for real-world decisions.
 
-4. Conflict Resolution
+4. ***Conflict Resolution***
 If two Earthlings disagree, they follow these steps:
 * Categorize the claim (empirical, meaning-making, speculative).
 * If empirical → resolve by science.
@@ -124,10 +80,8 @@ If two Earthlings disagree, they follow these steps:
 Final Principle:
 If it cannot change the world we live in together, it cannot divide us.
 
-5. Why This Matters
+5. ***Why This Matters***
 This protocol prevents:
 * Dogma (forcing myth into material truth).
 * Reductionism (dismissing imagination outright).
 * Division (fighting over what cannot be tested).
-
-***(end edit)***
