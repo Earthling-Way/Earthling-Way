@@ -23,3 +23,9 @@ Earthling Way is an organization dedicated to reverence of Gaia, Consciousness, 
 18. [License](License.md)
 
 ### Additional Contributions
+***Lectures***
+[Lecture One](Lecture_01.md)
+[Lecture Two](Lecture_02.md)
+[Lecture Three](Lecture_03.md)
+[Lecture Four](Lecture_04.md)
+[Lecture Five](Lecture_05.md)
